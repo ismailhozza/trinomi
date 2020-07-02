@@ -1,23 +1,22 @@
-# Generation A (GenA)
+# Trinomi
 
 ## What is it?
 
+![Trinomi](images/icon-96x96.png "Trinomi")
 
-![GenA](images/icon-96x96.png "Generation A")
-
-GenA is a simple CRM application containing the most fundamental features only. It's meant for **small** to **medium** **schools**, **clubs**, **teaching centers**, **tuition centers** etc.
+Trinomi is a simple CRM (contact management system) application containing the most fundamental features only. It's meant for **organizations**.
 
 It's built to be simple and mobile friendly by design.
 
-The fees management module can be used separately by any one who gets regular payments from customers/contacts and wants to track those payments.
+The fees and invoices module can be used separately by any one who gets regular payments from customers/contacts and wants to track those payments. This modules allows you to easily create invoices and track payments.
 
 Desktop and web version.
 
-![GenWeb](images/desktop.png "Generation A Web")
+![TrinoWeb](images/desktop.png "Trinomi for Web")
 
 Mobile version.
 
-![GenWeb](images/mobile.jpeg "Generation A Mobile")
+![TrinoMobile](images/mobile.jpeg "Trinomi for Mobile")
 
 
 ## Contacts
@@ -61,7 +60,7 @@ Creating calendar event
 
 ## Courses
 
-Courses are very similar to groups.
+Courses are very similar to groups. This feature is included in [GenA](https://github.com/ismailhozza/gena), but not in Trinomi.
 
 ## Fees
 
@@ -77,16 +76,21 @@ Below the chart there is the target contacts of the fee.
 
 ![Fees](images/fees.gif "New fee")
 
-### Payments
+### Payments and Invoicing
 
-Fee payments can be created easily on the bottom of the fee details page.
-
+Fee payments can be created easily on the bottom of the fee details page. This is useful when you need to record payments, but not create actual invoices. If you need to create and send invoices use the invoices feature.
 
 ![NewPayment](images/new-payment.gif "New payment")
 
 Payments to multiple fees can be imported easily at one. The UI allows making corrections before actually importing the fees.
 
 ![ImportPayment](images/import-payment.gif "Import payments")
+
+#### Invoices
+
+Create a new invoice, add invoice lines, export as PDF and send to your contact/customer.
+
+![CreateInvoice](images/new-invoice.gif "New Invoice")
 
 ## Messages
 
