@@ -6,6 +6,8 @@
 
 Trinomi is a simple CRM (contact management system) application containing the most fundamental features only. It's meant for **organizations** primarily, but can be used by small to medium sized companies also.
 
+Trinomi offers three core features: **Contacts**, **Messaging** and **Fees/Invoicing**.
+
 It's built to be simple and mobile friendly by design.
 
 The fees and invoices module can be used separately by any one who gets regular payments from customers/contacts and wants to track those payments. This module allows you to easily create and manage invoices and track related payments.
@@ -27,7 +29,7 @@ Creating a new contact
 
 ![Contact](images/contact.gif "Create contact")
 
-Contacts can be filtered by gender, tag, id or a free text like name. Filter contacts is shown below.
+Contacts can be filtered by gender, tag, id or a free text like name. Filtered contacts is shown below.
 
 ![Filter](images/contacts-filter.gif "Filtering contacts")
 
@@ -60,7 +62,7 @@ Creating calendar event
 
 ## Courses
 
-Courses are very similar to groups. This feature is included in [Trinomi](https://ismailhozza.github.io/trinomi/), but not in Trinomi.
+Courses are very similar to groups. This feature is included in [GenA](https://ismailhozza.github.io/trinomi/), but not in Trinomi.
 
 ## Fees
 
