@@ -4,24 +4,24 @@
 
 ![Trinomi](images/icon-96x96.png "Trinomi")
 
-Trinomi is a simple CRM (contact management system) application containing the most fundamental features only. It's meant for **organizations**.
+Trinomi is a simple CRM (contact management system) application containing the most fundamental features only. It's meant for **organizations** primarily, but can be used by small to medium sized companies also.
 
 It's built to be simple and mobile friendly by design.
 
-The fees and invoices module can be used separately by any one who gets regular payments from customers/contacts and wants to track those payments. This modules allows you to easily create invoices and track payments.
+The fees and invoices module can be used separately by any one who gets regular payments from customers/contacts and wants to track those payments. This module allows you to easily create and manage invoices and track related payments.
 
-Desktop and web version.
+Desktop and web version. This is how the app looks when used by desktop or web client.
 
 ![TrinoWeb](images/desktop.png "Trinomi for Web")
 
-Mobile version.
+Mobile version. And this is how it looks on handheld devices.
 
 ![TrinoMobile](images/mobile.jpeg "Trinomi for Mobile")
 
 
 ## Contacts
 
-**Contacts** are the core feature of the app. Contacts can be **students**, **members**, **guardians**, **teachers**, etc. GenA stores only basic information from each contact most notably name, gender, year of birth, phone number, family size, address, tags and notes. Only **name**, **gender** and **phone number** are required all other fields are optional.
+**Contacts** are the core feature of the app. Contacts can be **students**, **members**, **guardians**, **teachers**, etc. Trinomi stores only basic information from each contact most notably name, gender, year of birth, phone number, family size, address, tags and notes. Only **name**, **gender** and **phone number** are required all other fields are optional. Besides these core fields any number of **custom fields** can be added to the contact. Custom fields are managed by administrator under the profile page.
 
 Creating a new contact
 
@@ -60,7 +60,7 @@ Creating calendar event
 
 ## Courses
 
-Courses are very similar to groups. This feature is included in [GenA](https://github.com/ismailhozza/gena), but not in Trinomi.
+Courses are very similar to groups. This feature is included in [Trinomi](https://ismailhozza.github.io/trinomi/), but not in Trinomi.
 
 ## Fees
 
@@ -94,7 +94,7 @@ Create a new invoice, add invoice lines, export as PDF and send to your contact/
 
 ## Messages
 
-Messaging based on SMS is one of the core features of GenA. Message can target individual contact, a group, a course or fee. Two-way communication is possible allowing GenA to receive messages from registered contacts.
+Messaging based on SMS is one of the core features of Trinomi. Message can target individual contact, a group, a course or fee. Two-way communication is possible allowing Trinomi to receive messages from registered contacts.
 
 Automatic messages for events and fees are supported.
 
